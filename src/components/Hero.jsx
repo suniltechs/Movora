@@ -172,7 +172,7 @@ const Hero = () => {
                 animate={{ scale: 1, opacity: 1 }}
                 transition={{ duration: 0.8, delay: 0.7 }}
               >
-                <img className='rotate-[0.102rad]' src="/assets/popcorn-bucket.png" alt="popcorn-bucket" />
+                <img className='rotate-[0.102rad]' src="/assets/popcorn.png" alt="popcorn-bucket" />
               </motion.div>
             </div>
           </motion.div>
