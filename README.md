@@ -80,7 +80,7 @@ moviefinder/
   <div align="center"> 
      <img src="./Website screenshots/1.png" width="45%" alt="Desktop View"> 
      <img src="./Website screenshots/2.png" width="45%" alt="Mobile View"> 
-     <img src="./Website screenshots/3.png" width="45%" alt="Search Results"> 
+     <img src="./Website screenshots/3.png" width="45%" alt="Search Result"> 
      <img src="./Website screenshots/4.png" width="45%" alt="Movie Details">
      <img src="./Website screenshots/5.png" width="90.5%" alt="Movie Details">
   </div>
